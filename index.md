@@ -4,3 +4,5 @@
 #### Header size 4
 ##### Header size 5
 ###### Header size 6
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
